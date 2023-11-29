@@ -3,7 +3,7 @@
     "header": {
         "name": " simple RTX Bedrock",
         "description": "A simple Bedrock RTX Pack",
-        "uuid": "3b1cc774-0ecd-11ee-be56-0242ac120002",
+        "uuid": "0bea7572-8ead-11ee-b9d1-0242ac120002",
         "min_engine_version": [1, 12, 0],
         "version": [1, 0, 0]
     },
@@ -11,7 +11,7 @@
         {
             "description": "A simple Bedrock RTX Pack",
             "type": "resources",
-            "uuid": "414ed5c4-0ecd-11ee-be56-0242ac120002",
+            "uuid": "2da45ef8-8ead-11ee-b9d1-0242ac120002",
             "version": [0, 0, 1]
         }
     ],
